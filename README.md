@@ -110,7 +110,7 @@ Particularly interested in working within **multidisciplinary and international 
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/javier-alonso-jaimes-cucho-50a59a1b4  
-- Email: javier.jaimes@pucp.edu.pe  
+- Email: javi.ing11civ@gmail.com
 
 ---
 
