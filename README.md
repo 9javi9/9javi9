@@ -32,11 +32,6 @@ I develop **data-driven and automated engineering solutions**, integrating:
 
 ## 🧠 Research
 
-- Semi-supervised CNN for urban growth monitoring  
-- SAR-based detection of informal settlements  
-- GeoAI for risk-based territorial planning  
-
-📄 Publications:  
 📄 **Semi-Supervised Urban Segmentation (NHESS - Preprint)**  
 https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5987/
 
