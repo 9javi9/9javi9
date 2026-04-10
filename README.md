@@ -69,6 +69,7 @@ Teaching Assistant at PUCP:
 - Multivariable Calculus  
 - Dynamics  
 - Strength of Materials  
+- Structural Analysis
 
 ---
 
