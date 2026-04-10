@@ -9,7 +9,7 @@
 
 Civil Engineer and AI researcher working at the intersection of:
 
-- GeoAI & Spatial Data Science  
+- Spatial Data Science  
 - Remote Sensing (SAR & Optical)  
 - Structural Engineering & Automation  
 - Seismic Risk & Urban Resilience  
