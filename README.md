@@ -37,9 +37,14 @@ I develop **data-driven and automated engineering solutions**, integrating:
 - GeoAI for risk-based territorial planning  
 
 📄 Publications:  
-- NHESS (preprint)  
-- WCEE 2024  
-- Progress in Disaster Science  
+📄 **Semi-Supervised Urban Segmentation (NHESS - Preprint)**  
+https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5987/
+
+📄 **SAR-based Informal Growth Monitoring (WCEE 2024)**  
+https://drive.google.com/file/d/17Ba3txOoCQ25NWlVxCdy_FLW2ArHn39j/view
+
+📄 **Urban Vulnerability in Lima (PDISAS)**  
+https://doi.org/10.1016/j.pdisas.2024.100345
 
 ---
 
