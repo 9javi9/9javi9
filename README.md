@@ -60,14 +60,19 @@ I develop **data-driven and automated engineering solutions**, integrating:
 
 ---
 
-## 🎯 Interests
+## 🎯 Career Interests
 
-- Structural Engineering & Design  
+I am seeking opportunities in:
+
+- Structural Engineering (Design & Analysis)  
 - Digital Engineering & BIM Automation  
-- AI in Civil Engineering  
-- Infrastructure Innovation  
-- Research & PhD opportunities  
+- AI Applications in Civil Engineering  
+- Infrastructure Innovation & Smart Construction  
+- Research positions in GeoAI, Risk, and Urban Systems  
 
+Particularly interested in working within **multidisciplinary and international teams**.
+
+---
 ---
 
 ## 🌐 Portfolio
