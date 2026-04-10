@@ -60,6 +60,32 @@ https://doi.org/10.1016/j.pdisas.2024.100345
 
 ---
 
+
+## 🧑‍🏫 Teaching
+
+Teaching Assistant at PUCP:
+
+- Physics I–IV  
+- Multivariable Calculus  
+- Dynamics  
+- Strength of Materials  
+
+---
+
+## 💼 Experience Highlights
+
+### 🏢 BIM & Structural Design
+- Automated structural workflows using Python, C#, and Dynamo  
+- Developed API-based engineering tools  
+- Parametric infrastructure design  
+
+### 🧪 Research Projects (CONCYTEC – PROCIENCIA)
+- GeoAI applications for urban risk  
+- Satellite data processing pipelines  
+- ML models for spatial classification  
+
+---
+
 ## 🎯 Career Interests
 
 I am seeking opportunities in:
@@ -72,7 +98,6 @@ I am seeking opportunities in:
 
 Particularly interested in working within **multidisciplinary and international teams**.
 
----
 ---
 
 ## 🌐 Portfolio
